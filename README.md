@@ -1,8 +1,4 @@
 <h1 align="center">
-  <img alt="Logo" src="./public/images/logo.svg" alt="ig.News">
-</h1>
-
-<h1 align="center">
     ig.News - Next.js
 </h1>
 <p align="center">Aplicação para inscrição de newsletter com pagamento via stripe</p>
@@ -86,4 +82,11 @@ $ yarn dev
 ```
 
 ---
+## :framed_picture: Imagens ##
 
+<h1 align="center">
+    <img alt = "Web app" src = ".github/image-01.png" width = "500px" />
+    <img alt = "Web app" src = ".github/image-02.png" width = "500px" />
+    <img alt = "Web app" src = ".github/image-03.png" width = "500px" />
+    <img alt = "Web app" src = ".github/image-04.png" width = "500px" />
+</h1>
